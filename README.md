@@ -13,6 +13,7 @@
 | [0067-add-binary](https://github.com/NikhilY-HUB/hello-world/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0205-isomorphic-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0125-valid-palindrome) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
