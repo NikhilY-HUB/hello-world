@@ -18,6 +18,7 @@
 | [0344-reverse-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/NikhilY-HUB/hello-world/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/NikhilY-HUB/hello-world/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/NikhilY-HUB/hello-world/tree/master/0709-to-lower-case) |
 ## Bit Manipulation
 |  |
 | ------- |
