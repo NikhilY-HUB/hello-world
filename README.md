@@ -16,6 +16,7 @@
 | [0205-isomorphic-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/NikhilY-HUB/hello-world/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/NikhilY-HUB/hello-world/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NikhilY-HUB/hello-world/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/NikhilY-HUB/hello-world/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/NikhilY-HUB/hello-world/tree/master/0709-to-lower-case) |
@@ -40,6 +41,7 @@
 | [0205-isomorphic-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NikhilY-HUB/hello-world/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/NikhilY-HUB/hello-world/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/NikhilY-HUB/hello-world/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NikhilY-HUB/hello-world/tree/master/0389-find-the-difference) |
 ## Array
 |  |
@@ -51,4 +53,8 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/NikhilY-HUB/hello-world/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/NikhilY-HUB/hello-world/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/NikhilY-HUB/hello-world/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
