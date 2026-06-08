@@ -4,4 +4,7 @@ class Solution(object):
         :type word: str
         :rtype: bool
         """
-        return word.isupper() or word.islower() or word.istitle()
+        if word.isupper() or word.islower() or word.istitle():
+            return True
+        else:
+            return False
