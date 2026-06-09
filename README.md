@@ -22,6 +22,7 @@
 | [0409-longest-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0409-longest-palindrome) |
 | [0520-detect-capital](https://github.com/NikhilY-HUB/hello-world/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/NikhilY-HUB/hello-world/tree/master/0709-to-lower-case) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0409-longest-palindrome) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
