@@ -9,21 +9,13 @@ class Solution(object):
         :type head: Optional[ListNode]
         :rtype: Optional[ListNode]
         """
-        if not head:
-            return head
-            
+        if not head or not head.next:
+            return head 
         curr = head
-        # Localize the next node check to minimize dot-lookup overhead
-        nxt = curr.next
         
-        while nxt:
-            if curr.val == nxt.val:
-                # Skip the duplicate
-                curr.next = nxt.next
+        while curr and curr.next:
+            if curr.val == curr.next.val:
+                curr.next = curr.next.next
             else:
-                # Move curr forward
-                curr = nxt
-            # Advance our lookup pointer
-            nxt = curr.next
-            
+                curr = curr.next
         return head
