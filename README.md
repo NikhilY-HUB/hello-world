@@ -97,4 +97,8 @@
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
