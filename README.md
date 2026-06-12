@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NikhilY-HUB/hello-world/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/NikhilY-HUB/hello-world/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
 ## String
@@ -91,6 +92,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/NikhilY-HUB/hello-world/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
 ## Greedy
 |  |
