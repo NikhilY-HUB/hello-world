@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/NikhilY-HUB/hello-world/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NikhilY-HUB/hello-world/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [0203-remove-linked-list-elements](https://github.com/NikhilY-HUB/hello-world/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NikhilY-HUB/hello-world/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
