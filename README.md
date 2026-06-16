@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NikhilY-HUB/hello-world/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/NikhilY-HUB/hello-world/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0171-excel-sheet-column-number) |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/NikhilY-HUB/hello-world/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/NikhilY-HUB/hello-world/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -133,4 +135,8 @@
 | [0203-remove-linked-list-elements](https://github.com/NikhilY-HUB/hello-world/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/NikhilY-HUB/hello-world/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
