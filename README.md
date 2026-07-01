@@ -47,6 +47,7 @@
 | [0086-partition-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/NikhilY-HUB/hello-world/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NikhilY-HUB/hello-world/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0344-reverse-string) |
@@ -114,6 +115,7 @@
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
@@ -126,6 +128,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/NikhilY-HUB/hello-world/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NikhilY-HUB/hello-world/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/NikhilY-HUB/hello-world/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0206-reverse-linked-list) |
@@ -137,6 +140,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/NikhilY-HUB/hello-world/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/NikhilY-HUB/hello-world/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
