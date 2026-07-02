@@ -91,6 +91,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NikhilY-HUB/hello-world/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NikhilY-HUB/hello-world/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NikhilY-HUB/hello-world/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NikhilY-HUB/hello-world/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/NikhilY-HUB/hello-world/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NikhilY-HUB/hello-world/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/2816-double-a-number-represented-as-a-linked-list) |
