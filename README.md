@@ -9,6 +9,7 @@
 | [0069-sqrtx](https://github.com/NikhilY-HUB/hello-world/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NikhilY-HUB/hello-world/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NikhilY-HUB/hello-world/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -52,6 +53,7 @@
 | [0143-reorder-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NikhilY-HUB/hello-world/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0876-middle-of-the-linked-list) |
@@ -60,6 +62,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/NikhilY-HUB/hello-world/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NikhilY-HUB/hello-world/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/NikhilY-HUB/hello-world/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
