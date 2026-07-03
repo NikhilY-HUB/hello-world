@@ -7,6 +7,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/NikhilY-HUB/hello-world/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NikhilY-HUB/hello-world/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/NikhilY-HUB/hello-world/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NikhilY-HUB/hello-world/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -167,6 +168,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikhilY-HUB/hello-world/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/NikhilY-HUB/hello-world/tree/master/0070-climbing-stairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -175,4 +177,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NikhilY-HUB/hello-world/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
