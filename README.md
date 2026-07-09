@@ -17,6 +17,7 @@
 | [0326-power-of-three](https://github.com/NikhilY-HUB/hello-world/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NikhilY-HUB/hello-world/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/NikhilY-HUB/hello-world/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0507-perfect-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NikhilY-HUB/hello-world/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String
