@@ -11,6 +11,7 @@
 | [0171-excel-sheet-column-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/NikhilY-HUB/hello-world/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/NikhilY-HUB/hello-world/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NikhilY-HUB/hello-world/tree/master/0342-power-of-four) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/NikhilY-HUB/hello-world/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,4 +194,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NikhilY-HUB/hello-world/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
