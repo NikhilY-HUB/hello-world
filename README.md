@@ -5,6 +5,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/NikhilY-HUB/hello-world/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/NikhilY-HUB/hello-world/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/NikhilY-HUB/hello-world/tree/master/0070-climbing-stairs) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikhilY-HUB/hello-world/tree/master/0005-longest-palindromic-substring) |
+| [0043-multiply-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/NikhilY-HUB/hello-world/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0171-excel-sheet-column-number) |
@@ -52,6 +54,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/NikhilY-HUB/hello-world/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/NikhilY-HUB/hello-world/tree/master/0412-fizz-buzz) |
