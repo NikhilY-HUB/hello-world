@@ -22,6 +22,7 @@
 | [0507-perfect-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NikhilY-HUB/hello-world/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/NikhilY-HUB/hello-world/tree/master/1323-maximum-69-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
@@ -147,6 +148,7 @@
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0409-longest-palindrome) |
+| [1323-maximum-69-number](https://github.com/NikhilY-HUB/hello-world/tree/master/1323-maximum-69-number) |
 ## Stack
 |  |
 | ------- |
