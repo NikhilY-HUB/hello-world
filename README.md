@@ -21,6 +21,7 @@
 | [0415-add-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0509-fibonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NikhilY-HUB/hello-world/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/NikhilY-HUB/hello-world/tree/master/1323-maximum-69-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -96,6 +97,7 @@
 | [0136-single-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/NikhilY-HUB/hello-world/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Sorting
 |  |
 | ------- |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/0258-add-digits) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
