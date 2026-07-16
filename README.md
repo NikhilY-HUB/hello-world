@@ -95,6 +95,7 @@
 | [0383-ransom-note](https://github.com/NikhilY-HUB/hello-world/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/NikhilY-HUB/hello-world/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0409-longest-palindrome) |
+| [3483-unique-3-digit-even-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0217-contains-duplicate](https://github.com/NikhilY-HUB/hello-world/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
+| [3483-unique-3-digit-even-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | [0326-power-of-three](https://github.com/NikhilY-HUB/hello-world/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/NikhilY-HUB/hello-world/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,4 +228,8 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
