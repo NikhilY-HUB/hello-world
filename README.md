@@ -22,6 +22,7 @@
 | [0504-base-7](https://github.com/NikhilY-HUB/hello-world/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NikhilY-HUB/hello-world/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/NikhilY-HUB/hello-world/tree/master/1323-maximum-69-number) |
@@ -104,6 +105,7 @@
 | [0136-single-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/NikhilY-HUB/hello-world/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -113,6 +115,7 @@
 | [0217-contains-duplicate](https://github.com/NikhilY-HUB/hello-world/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/NikhilY-HUB/hello-world/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
 | ------- |
