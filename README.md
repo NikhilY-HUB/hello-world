@@ -26,6 +26,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/NikhilY-HUB/hello-world/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilY-HUB/hello-world/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/NikhilY-HUB/hello-world/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NikhilY-HUB/hello-world/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/NikhilY-HUB/hello-world/tree/master/1688-count-of-matches-in-tournament) |
@@ -109,6 +110,7 @@
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilY-HUB/hello-world/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
