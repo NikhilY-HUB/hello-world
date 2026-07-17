@@ -19,6 +19,7 @@
 | [0342-power-of-four](https://github.com/NikhilY-HUB/hello-world/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/NikhilY-HUB/hello-world/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/NikhilY-HUB/hello-world/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0509-fibonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -43,6 +44,7 @@
 | [0409-longest-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/NikhilY-HUB/hello-world/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/NikhilY-HUB/hello-world/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/NikhilY-HUB/hello-world/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/NikhilY-HUB/hello-world/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
