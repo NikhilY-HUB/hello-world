@@ -181,6 +181,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/NikhilY-HUB/hello-world/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/NikhilY-HUB/hello-world/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/NikhilY-HUB/hello-world/tree/master/2000-reverse-prefix-of-word) |
@@ -255,9 +256,11 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NikhilY-HUB/hello-world/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/NikhilY-HUB/hello-world/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NikhilY-HUB/hello-world/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/NikhilY-HUB/hello-world/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
