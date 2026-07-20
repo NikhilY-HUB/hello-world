@@ -73,6 +73,7 @@
 | [0258-add-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/NikhilY-HUB/hello-world/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/NikhilY-HUB/hello-world/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/NikhilY-HUB/hello-world/tree/master/1688-count-of-matches-in-tournament) |
 | [3174-clear-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/3174-clear-digits) |
 ## Two Pointers
@@ -115,6 +116,7 @@
 | [0217-contains-duplicate](https://github.com/NikhilY-HUB/hello-world/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/NikhilY-HUB/hello-world/tree/master/0682-baseball-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/NikhilY-HUB/hello-world/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/NikhilY-HUB/hello-world/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/3483-unique-3-digit-even-numbers) |
@@ -183,6 +185,7 @@
 | [0225-implement-stack-using-queues](https://github.com/NikhilY-HUB/hello-world/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NikhilY-HUB/hello-world/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/NikhilY-HUB/hello-world/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/NikhilY-HUB/hello-world/tree/master/2000-reverse-prefix-of-word) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/2816-double-a-number-represented-as-a-linked-list) |
