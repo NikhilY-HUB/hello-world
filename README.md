@@ -30,6 +30,7 @@
 | [1323-maximum-69-number](https://github.com/NikhilY-HUB/hello-world/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/NikhilY-HUB/hello-world/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1688-count-of-matches-in-tournament](https://github.com/NikhilY-HUB/hello-world/tree/master/1688-count-of-matches-in-tournament) |
+| [2582-pass-the-pillow](https://github.com/NikhilY-HUB/hello-world/tree/master/2582-pass-the-pillow) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/NikhilY-HUB/hello-world/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## String
@@ -76,6 +77,7 @@
 | [0415-add-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/NikhilY-HUB/hello-world/tree/master/0682-baseball-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/NikhilY-HUB/hello-world/tree/master/1688-count-of-matches-in-tournament) |
+| [2582-pass-the-pillow](https://github.com/NikhilY-HUB/hello-world/tree/master/2582-pass-the-pillow) |
 | [3174-clear-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/3174-clear-digits) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/NikhilY-HUB/hello-world/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Two Pointers
