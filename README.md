@@ -43,6 +43,7 @@
 | [0290-word-pattern](https://github.com/NikhilY-HUB/hello-world/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/NikhilY-HUB/hello-world/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NikhilY-HUB/hello-world/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/NikhilY-HUB/hello-world/tree/master/0412-fizz-buzz) |
@@ -103,6 +104,7 @@
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/NikhilY-HUB/hello-world/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/NikhilY-HUB/hello-world/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NikhilY-HUB/hello-world/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0409-longest-palindrome) |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/3483-unique-3-digit-even-numbers) |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/NikhilY-HUB/hello-world/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
 | ------- |
@@ -247,4 +250,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/NikhilY-HUB/hello-world/tree/master/3483-unique-3-digit-even-numbers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
