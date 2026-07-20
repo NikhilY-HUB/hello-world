@@ -53,6 +53,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2000-reverse-prefix-of-word](https://github.com/NikhilY-HUB/hello-world/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/3174-clear-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0412-fizz-buzz](https://github.com/NikhilY-HUB/hello-world/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0415-add-strings) |
 | [1688-count-of-matches-in-tournament](https://github.com/NikhilY-HUB/hello-world/tree/master/1688-count-of-matches-in-tournament) |
+| [3174-clear-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/3174-clear-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/NikhilY-HUB/hello-world/tree/master/2000-reverse-prefix-of-word) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/NikhilY-HUB/hello-world/tree/master/3174-clear-digits) |
 ## Linked List
 |  |
 | ------- |
