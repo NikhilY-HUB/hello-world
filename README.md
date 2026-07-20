@@ -52,6 +52,7 @@
 | [0709-to-lower-case](https://github.com/NikhilY-HUB/hello-world/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2000-reverse-prefix-of-word](https://github.com/NikhilY-HUB/hello-world/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/NikhilY-HUB/hello-world/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/NikhilY-HUB/hello-world/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/NikhilY-HUB/hello-world/tree/master/2000-reverse-prefix-of-word) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Linked List
 |  |
