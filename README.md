@@ -120,6 +120,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NikhilY-HUB/hello-world/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/NikhilY-HUB/hello-world/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0268-missing-number) |
@@ -240,6 +241,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/NikhilY-HUB/hello-world/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/NikhilY-HUB/hello-world/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/NikhilY-HUB/hello-world/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
