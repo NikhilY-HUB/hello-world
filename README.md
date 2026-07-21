@@ -43,6 +43,7 @@
 | [0125-valid-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/NikhilY-HUB/hello-world/tree/master/0205-isomorphic-strings) |
+| [0257-binary-tree-paths](https://github.com/NikhilY-HUB/hello-world/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/NikhilY-HUB/hello-world/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/NikhilY-HUB/hello-world/tree/master/0383-ransom-note) |
@@ -149,6 +150,7 @@
 | [0110-balanced-binary-tree](https://github.com/NikhilY-HUB/hello-world/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/NikhilY-HUB/hello-world/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0110-balanced-binary-tree](https://github.com/NikhilY-HUB/hello-world/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/NikhilY-HUB/hello-world/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,6 +175,7 @@
 | [0110-balanced-binary-tree](https://github.com/NikhilY-HUB/hello-world/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/NikhilY-HUB/hello-world/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/NikhilY-HUB/hello-world/tree/master/0257-binary-tree-paths) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,4 +277,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/NikhilY-HUB/hello-world/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NikhilY-HUB/hello-world/tree/master/0232-implement-queue-using-stacks) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/NikhilY-HUB/hello-world/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
