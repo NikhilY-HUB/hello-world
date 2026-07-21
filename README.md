@@ -49,6 +49,7 @@
 | [0383-ransom-note](https://github.com/NikhilY-HUB/hello-world/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/NikhilY-HUB/hello-world/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/NikhilY-HUB/hello-world/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/NikhilY-HUB/hello-world/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/NikhilY-HUB/hello-world/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/NikhilY-HUB/hello-world/tree/master/0412-fizz-buzz) |
@@ -100,6 +101,7 @@
 | [0202-happy-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/NikhilY-HUB/hello-world/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/NikhilY-HUB/hello-world/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/NikhilY-HUB/hello-world/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/NikhilY-HUB/hello-world/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
@@ -242,6 +244,7 @@
 | [0005-longest-palindromic-substring](https://github.com/NikhilY-HUB/hello-world/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/NikhilY-HUB/hello-world/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NikhilY-HUB/hello-world/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/NikhilY-HUB/hello-world/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/NikhilY-HUB/hello-world/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
