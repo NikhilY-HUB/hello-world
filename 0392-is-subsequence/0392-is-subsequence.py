@@ -5,15 +5,13 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        if not s:
+        if s == "":
             return True
+        idx = 0
+        for i in t:
+            if i == s[idx]:
+                idx += 1
+            if idx == len(s):
+                return True
 
-        i = 0
-        
-        for char in t:
-            if char == s[i]:
-                i += 1
-
-                if i == len(s):
-                    return True
         return False
